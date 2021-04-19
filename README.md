@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://t.me/artnagornyi">
-  <img align="left" alt="Danila Nagornyi | Telegram" width="22px" src="https://raw.githubusercontent.com/DanilaNagornyi/iconsSVG/main/telegram.svg?token=APIP4W7F6WBL6MHFR57ZYVLAPWKUI" />
+  <img align="left" alt="Danila Nagornyi | Telegram" width="22px" src="https://raw.githubusercontent.com/DanilaNagornyi/iconsSVG/main/telegram.svg" />
 </a>
 <a href="https://www.facebook.com/DanilaNagornyi">
   <img align="left" alt="Danila Nagornyi | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
@@ -32,7 +32,9 @@
 [![WebSocket](https://img.shields.io/badge/-WebSocket-f9fbfa?logo=websocket&style=for-the-badge)](https://developer.mozilla.org/ru/docs/Web/API/WebSocket)
 [![Heroku](https://img.shields.io/badge/-Heroku-431490?logo=heroku&style=for-the-badge)](https://www.heroku.com/)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
+<img align="centre" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="320" />
 
 📈 My GitHub 
 
