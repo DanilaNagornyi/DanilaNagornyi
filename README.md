@@ -3,8 +3,8 @@
 <a href="https://t.me/artnagornyi">
   <img align="left" alt="Danila Nagornyi | Telegram" width="22px" src="https://sun9-30.userapi.com/impg/ETQGNVX_DaiO95YF66qsKMKVePhaAAENk41tuQ/hiJto-ykFpk.jpg?size=512x512&quality=96&sign=3cd7013418cc5f809cee8e04584f8efc&type=album" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.facebook.com/DanilaNagornyi">
+  <img align="left" alt="Danila Nagornyi | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
