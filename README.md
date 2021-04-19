@@ -10,7 +10,8 @@
   <img align="left" alt="Danila Nagornyi | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-### Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> меня зовут Данила - я Fullstack-разработчик JavaScript
+<br>
+### Привет, меня зовут Данила - я Fullstack-разработчик JavaScript
 
 Я придумываю идеи и воплощаю их в жизнь с помощью элегантных интерфейсов. Я очень забочусь о впечатлениях, архитектуре и качестве кода вещей, которые я создаю.
 
