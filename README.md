@@ -16,7 +16,7 @@
 
 Я придумываю идеи и воплощаю их в жизнь с помощью элегантных интерфейсов. Я очень забочусь о впечатлениях, архитектуре и качестве кода вещей, которые я создаю.
 
-![CodeWars](https://www.codewars.com/users/artnagornyi/badges/small)
+![CodeWars](https://www.codewars.com/users/artnagornyi/badges/large)
 
 ### Стэк технологий который я использовал
 [![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)](https://git-scm.com/)
