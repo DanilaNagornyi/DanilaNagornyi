@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://t.me/artnagornyi">
-  <img align="left" alt="Danila Nagornyi | Telegram" width="22px" src="https://raw.githubusercontent.com/DanilaNagornyi/iconsSVG/main/telegram.svg?token=APIP4W3J7ELUM55EZHUMONLAPXP2W" />
+  <img align="left" alt="Danila Nagornyi | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/768px-Telegram_Messenger.png" />
 </a>
 <a href="https://www.facebook.com/DanilaNagornyi">
   <img align="left" alt="Danila Nagornyi | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
