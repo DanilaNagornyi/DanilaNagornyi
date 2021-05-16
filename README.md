@@ -33,7 +33,7 @@
 [![PassportJS](https://img.shields.io/badge/-Passport.js-000000?logo=passportjs&style=for-the-badge)](http://www.passportjs.org/)
 [![WebSocket](https://img.shields.io/badge/-WebSocket-f9fbfa?logo=websocket&style=for-the-badge)](https://developer.mozilla.org/ru/docs/Web/API/WebSocket)
 [![Heroku](https://img.shields.io/badge/-Heroku-431490?logo=heroku&style=for-the-badge)](https://www.heroku.com/)
-[![Heroku](https://img.shields.io/badge/-Firebase-431490?logo=firebase&style=for-the-badge)](https://firebase.google.com/)
+[![Heroku](https://img.shields.io/badge/-Firebase-039be5?logo=firebase&style=for-the-badge)](https://firebase.google.com/)
 
 📈 My GitHub 
 
