@@ -7,7 +7,7 @@
   <img align="left" alt="Danila Nagornyi | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a> -->
 <a href="https://www.linkedin.com/in/danila-nagornyi-250182200/">
-  <img align="left" alt="Danila Nagornyi | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Danila Nagornyi | LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg)" />
 </a>
 
 <br />
