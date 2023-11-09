@@ -12,13 +12,13 @@
 
 <br />
   
-### Привет, меня зовут Данила - я Frontend-разработчик
+### Hi my name is Danila Nagornyi - i is Frontend-developer
 
-Я придумываю идеи и воплощаю их в жизнь с помощью элегантных интерфейсов. Я очень забочусь о впечатлениях, архитектуре и качестве кода вещей, которые я создаю.
+I come up with ideas and bring them to life through elegant interfaces. I pay great attention to the user experience, architecture, and code quality of the things I create.
 
 ![CodeWars](https://www.codewars.com/users/artnagornyi/badges/large)
 
-### Стэк технологий который я использовал
+### The technology stack that I used.
 [![NextJS](https://shields.io/badge/-Next.js-0070f3?logo=next.js&style=for-the-badge)](https://nextjs.org/)
 [![React](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)](https://reactjs.org/)
 [![Redux](https://shields.io/badge/-Redux-710B77?logo=redux&style=for-the-badge)](https://redux.js.org/)
