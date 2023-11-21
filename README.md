@@ -16,7 +16,7 @@
 
 I come up with ideas and bring them to life through elegant interfaces. I pay great attention to the user experience, architecture, and code quality of the things I create.
 
-![CodeWars](https://www.codewars.com/users/artnagornyi/badges/large)
+![CodeWars](https://www.codewars.com/users/artnagornyi/badges/small)
 
 ### The technology stack that I used.
 [![NextJS](https://shields.io/badge/-Next.js-0070f3?logo=next.js&style=for-the-badge)](https://nextjs.org/)
