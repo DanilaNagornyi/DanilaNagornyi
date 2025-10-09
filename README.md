@@ -12,7 +12,7 @@
 
 <br />
   
-### Hi my name is Danila Nagornyi - i is Frontend-developer
+### Hi my name is Danila Nagornyi - i is Software engineer
 
 I come up with ideas and bring them to life through elegant interfaces. I pay great attention to the user experience, architecture, and code quality of the things I create.
 
