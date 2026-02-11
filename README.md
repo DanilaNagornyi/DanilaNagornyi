@@ -14,8 +14,8 @@
 
 ## Hi, I'm Danila Nagornyi — Software Engineer
 
-I build scalable products and bring ideas to life through elegant interfaces and solid infrastructure.  
-I focus on user experience, clean architecture, and production-grade code.
+I build scalable products and design reliable infrastructure.
+I work across frontend architecture, CI/CD pipelines, and cloud environments.
 
 ![CodeWars](https://www.codewars.com/users/artnagornyi/badges/small)
 
@@ -32,6 +32,15 @@ I focus on user experience, clean architecture, and production-grade code.
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+
+---
+
+## ⚙️ CI / CD
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
