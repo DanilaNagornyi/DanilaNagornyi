@@ -55,5 +55,5 @@ Firebase · Vercel · Heroku · Babel · ESLint · Prettier · Stylelint · Figm
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanilaNagornyi&show_icons=true&theme=gotham" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanilaNagornyi&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
