@@ -48,7 +48,7 @@ I work across frontend architecture, CI/CD pipelines, and cloud environments.
 
 React Query · Redux Saga · Jest · Webpack · Tailwind · Swagger ·  
 Node.js · Express · MongoDB · Passport · WebSocket ·  
-Firebase · Vercel · Heroku · Babel · ESLint · Prettier · Stylelint · Figma
+Firebase · Vercel · Heroku · Babel · ESLint · Prettier · Stylelint · Figma ·  
 Chromatic · Radix UI
 
 ---
