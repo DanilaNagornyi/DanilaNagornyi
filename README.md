@@ -25,6 +25,7 @@ I work across frontend architecture, CI/CD pipelines, and cloud environments.
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![NextJS](https://shields.io/badge/-Next.js-000000?logo=next.js&style=for-the-badge)
 ![React](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)
