@@ -66,7 +66,7 @@ and set up observability — with a strong understanding of what developers actu
 
 | Project | What it shows |
 |---|---|
-| [terraform-learn](https://github.com/DanilaNagornyi/terraform-learn) | AWS infrastructure as code with Terraform — VPC, subnets, security groups, EC2 |
+| [aws-terraform-infra](https://github.com/DanilaNagornyi/aws-terraform-infra) | AWS infrastructure as code with Terraform — VPC, subnets, security groups, EC2 |
 | [eks-cluster-with-autoscaling](https://github.com/DanilaNagornyi/eks-cluster-with-autoscaling) | Amazon EKS cluster with Cluster Autoscaler |
 | [helm-charts-microservices](https://github.com/DanilaNagornyi/helm-charts-microservices) | Helm charts for a 10-service microservices app (Online Boutique) |
 | [prometheus-monitoring](https://github.com/DanilaNagornyi/prometheus-monitoring) | Prometheus + Grafana + Alertmanager stack for a microservices app in Kubernetes |
