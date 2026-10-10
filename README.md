@@ -80,11 +80,3 @@ and set up observability — with a strong understanding of what developers actu
 
 AWS ECS · EC2 · Lambda · S3 · RDS Aurora · IAM · ECR · Docker Compose · Nexus · DigitalOcean ·
 Chromatic · Vercel · Jest · Webpack · Tailwind · Radix UI · React Query · Express · MongoDB · WebSocket
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanilaNagornyi&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
